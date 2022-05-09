@@ -41,15 +41,16 @@ NOTE: Due to SEP limitation, you can only restore to an iOS version which its SE
 * 3 gigabytes free space on the computer
 * 64-bit iDevice (vulnerable to checkm8)
 * Binaries:
-1. [futurerestore(fork)](https://github.com/Mini-Exploit/futurerestore) (you can use [futurerestore-compiler](https://github.com/Mini-Exploit/futurerestore-compiler) to compile it)
-2. [img4tool](https://github.com/tihmstar/img4tool)
-3. [img4](https://github.com/xerub/img4lib) (img4lib)
-4. [kairos](https://github.com/dayt0n/kairos)
-5. [iBoot64Patcher](https://github.com/tihmstar/iBoot64Patcher)
-6. [ldid](https://drive.google.com/uc?export=download&id=1_amZww5ypZ9gcdHDlNmEL2Zh-t3eLKXi)
-7. [Kernel64Patcher](https://github.com/Ralph0045/Kernel64Patcher)
-8. [asr64_patcher](https://github.com/exploit3dguy/asr64_patcher)
-9. [tsschecker](https://github.com/1Conan/tsschecker)
+1.[dependencies](https://github.com/QGBoyy/dependencies)
+2. [futurerestore(fork)](https://github.com/Mini-Exploit/futurerestore) (you can use [futurerestore-compiler](https://github.com/Mini-Exploit/futurerestore-compiler) to compile it)
+3. [img4tool](https://github.com/tihmstar/img4tool)
+4. [img4](https://github.com/xerub/img4lib) (img4lib)
+5. [kairos](https://github.com/dayt0n/kairos)
+6. [iBoot64Patcher](https://github.com/tihmstar/iBoot64Patcher)
+7. [ldid](https://drive.google.com/uc?export=download&id=1_amZww5ypZ9gcdHDlNmEL2Zh-t3eLKXi)
+8. [Kernel64Patcher](https://github.com/Ralph0045/Kernel64Patcher)
+9. [asr64_patcher](https://github.com/exploit3dguy/asr64_patcher)
+10. [tsschecker](https://github.com/1Conan/tsschecker)
 
 After downloading the binaries above, you have to move them to PATH (e.g. ```/usr/local/bin```)
 
