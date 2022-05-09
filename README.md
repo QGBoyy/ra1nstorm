@@ -41,7 +41,7 @@ NOTE: Due to SEP limitation, you can only restore to an iOS version which its SE
 * 3 gigabytes free space on the computer
 * 64-bit iDevice (vulnerable to checkm8)
 * Binaries:
-1.[dependencies](https://github.com/QGBoyy/dependencies)
+1. [dependencies](https://github.com/QGBoyy/dependencies)
 2. [futurerestore(fork)](https://github.com/Mini-Exploit/futurerestore) (you can use [futurerestore-compiler](https://github.com/Mini-Exploit/futurerestore-compiler) to compile it)
 3. [img4tool](https://github.com/tihmstar/img4tool)
 4. [img4](https://github.com/xerub/img4lib) (img4lib)
